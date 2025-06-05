@@ -1,0 +1,13 @@
+Introdução à IA - Prof. João 60min
+Técnicas de Aprendizado Supervisionado - Prof. Ana 45min
+Redes Neurais Convolucionais - Prof. João 30min
+Ética na IA - Prof. Carla lightning
+Linguagens de Programação Funcionais - Prof. Paulo 45min
+História da Computação - Prof. Carla 30min
+Banco de Dados NoSQL - Prof. Ana 60min
+Lógica Computacional - Prof. Paulo 45min
+Compiladores e Interpretadores - Prof. João 60min
+Computação Quântica - Prof. Carla 45min
+Algoritmos Avançados - Prof. Ana 60min
+Programação Paralela - Prof. Paulo 30min
+Pensamento Computacional - Prof. Carla 30min
