@@ -1,0 +1,17 @@
+{
+    "name": "abraao/organizar-aulas",
+    "require": {
+        "phpunit/phpunit": "^12.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abraao\\OrganizarAulas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abraão Sousa",
+            "email": "abraao_andrade_sousa@hotmail.com"
+        }
+    ]
+}
