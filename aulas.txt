@@ -1,3 +1,4 @@
+# aulas.txt
 Introdução à IA - Prof. João 60min
 Técnicas de Aprendizado Supervisionado - Prof. Ana 45min
 Redes Neurais Convolucionais - Prof. João 30min
@@ -11,3 +12,13 @@ Computação Quântica - Prof. Carla 45min
 Algoritmos Avançados - Prof. Ana 60min
 Programação Paralela - Prof. Paulo 30min
 Pensamento Computacional - Prof. Carla 30min
+Engenharia de Software - Prof. Mota 60min
+Sistemas Operacionais - Prof. Paulo 60min
+Segurança da Informação - Prof. Ana 45min
+Desenvolvimento Web Full Stack - Prof. Mota 90min
+Computação em Nuvem - Prof. João 45min
+Visão Computacional - Prof. Ana 60min
+Processamento de Linguagem Natural - Prof. Carla 60min
+Teoria dos Grafos - Prof. Paulo 45min
+Internet das Coisas (IoT) - Prof. Mota lightning
+Realidade Virtual e Aumentada - Prof. Carla 90min
