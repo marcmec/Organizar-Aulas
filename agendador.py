@@ -11,10 +11,7 @@ import re
 from datetime import datetime, timedelta
 
 def parse_aulas(file_path='aulas.txt'):
-    """
-    Lê o arquivo de aulas e o transforma em uma lista de dicionários.
-    Cada dicionário representa uma aula com título, professor e duração em minutos.
-    """
+   
     aulas = []
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -45,10 +42,7 @@ def parse_aulas(file_path='aulas.txt'):
     return aulas, False
 
 def agendar_aulas(aulas):
-    """
-    Organiza as aulas em trilhas (dias) e sessões (manhã/tarde)
-    usando um algoritmo guloso.
-    """
+    
     # Ordena as aulas pela duração, da maior para a menor
     aulas_ordenadas = sorted(aulas, key=lambda x: x['duracao'], reverse=True)
 
@@ -93,9 +87,7 @@ def agendar_aulas(aulas):
     return grade_semanal
 
 def imprimir_grade(grade):
-    """
-    Formata e imprime a grade horária no console.
-    """
+   
     dias_da_semana = ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira"]
 
     for i, dia in enumerate(grade):
@@ -128,7 +120,6 @@ def imprimir_grade(grade):
             print("\n" + "-"*40 + "\n")
 
 
-# --- Execução Principal ---
 
 # Tenta ler o arquivo. Se não existir, cria um de exemplo.
 lista_de_aulas, erro_arquivo = parse_aulas('aulas.txt')
